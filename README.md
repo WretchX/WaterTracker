@@ -1,4 +1,4 @@
-**WaterTracker**
+**WaterTracker**  
 An open-source daily water tracker  for Windows written completely in AutoItv3, with customizable hydration reminders.
 
 HOW TO INSTALL:
