@@ -28,4 +28,4 @@ You can adjust some of the values in WaterTracker via **Options**
 - _Custom values_ - These 3 input boxes will allow you to change the value in ounces of the 3 quickbuttons on the main program window.
 - Always click "**Save**" to apply changes made. Clicking X will not save changes made in Options.
 
-"**Reset**" will simply clear the day's data. Your options will not be afected.
+"**Reset**" will simply clear the day's data. Your options will not be affected.
