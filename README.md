@@ -1,20 +1,16 @@
 **WaterTracker**  
 An open-source daily water tracker  for Windows written completely in AutoItv3, with customizable hydration reminders.
 
-HOW TO INSTALL:
-
+**HOW TO INSTALL:**
 1. Download AutoIt if you don't already have it installed (11.7mb). You will need this to compile the code.
 https://www.autoitscript.com/cgi-bin/getfile.pl?autoit3/autoit-v3-setup.exe
-
 2. Be sure the .au3 file association is checked during installation.
-
 3. Make sure you've unzipped WaterTracker. In the WaterTracker directory, right-click "WaterTracker.au3" and then "Compile Script"
-
 4. Run WaterTracker.exe. If you wish to run the program from outside the program's directory, create a shortcut.
 
 ![image](https://user-images.githubusercontent.com/84418728/173700393-a4960b0c-6b5f-4058-b2ec-20e77c75174e.png)
 
-HOW TO USE:
+**HOW TO USE:**
 This program keeps track of your water intake throughout the day. There are 3 ways to add water amounts:
 - By clicking the 3 buttons (Labeled 16, 20, 32oz. by default)
 - By typing in a custom amount under "Quick Add", and then clicking "Add"
