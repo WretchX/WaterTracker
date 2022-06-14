@@ -1,5 +1,5 @@
 **WaterTracker**  
-An open-source daily water tracker  for Windows written completely in AutoItv3, with customizable hydration reminders.
+An open-source daily water tracker  for Windows written completely in AutoItv3, with customizable hydration reminders. Requires AutoIt to run.
 
 **HOW TO INSTALL:**
 1. Download AutoIt if you don't already have it installed (**11.7mb**). You will need this to compile the code.
