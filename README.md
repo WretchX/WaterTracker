@@ -10,7 +10,7 @@ https://www.autoitscript.com/cgi-bin/getfile.pl?autoit3/autoit-v3-setup.exe
 
 ![image](https://user-images.githubusercontent.com/84418728/173700393-a4960b0c-6b5f-4058-b2ec-20e77c75174e.png)
 
-**HOW TO USE:**
+**HOW TO USE:**  
 This program keeps track of your water intake throughout the day. There are 3 ways to add water amounts:
 - By clicking the 3 buttons (Labeled 16, 20, 32oz. by default)
 - By typing in a custom amount under "**Quick Add**", and then clicking "**Add**"
